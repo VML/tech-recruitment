@@ -6,10 +6,10 @@ The Tech Apprenticeship program aims to help VMLY&R build a world-class technolo
 - Teaching the next generation of technologists how to lead and be led, through guided feedback for apprentices and coaches
 
 ### How do I apply to the VMLY&R Tech Apprenticeship program?
-Record yourself answering the questions below.  You should be able to use the recording feature of Zoom or other meeting software.  Videos should be 6 minutes or shorter.  Please use (or convert to) MP4 format.
+Record yourself answering the questions below with your video on or off based on your comfort level.  You should be able to use the recording feature of Zoom or other meeting software.  Videos should be 6 minutes or shorter.  Please use (or convert to) MP4 format.
 
 1. When you get stuck or tripped up by something, how do you get past that kind of blocker?
-1. What do you do when you are given multiple tasks and have to determine which one to work on first?
+1. What do you do when you are given multiple tasks and must determine which one to work on first?
 1. Name a kind of technology you haven't used but would like to try. Why are you interested in learning more about it?
 1. What kinds of strategies have you used to stay motivated and connected during the pandemic?
 1. What is your process for learning something new?
@@ -20,15 +20,18 @@ Record yourself answering the questions below.  You should be able to use the re
 **Email the following items to [lyndsey.padget@vmlyr.com](mailto:lyndsey.padget@vmlyr.com).  Use subject line: "Tech apprenticeship application for \<First Last\>"** with (of course) your name.
 
 1. a link to your video (make sure we can access it!)
-1. a copy of your resume
+1. a copy of your resume in a PDF to preserve formatting
 1. a link to your LinkedIn and GitHub presence, if available
-1. any other relevant notes
+1. anything else you would want us to know about you
 
 ### When do you accept applications for the program?
-We accept applications at any time.  Potential candidate-to-project matching may occur any time throughout the year, as needed.
+We accept applications at any time, and they will be reviewed regularly.  Apprentices will not be brought on as part of a cohort class.  Potential candidates may be matched when projects need them, which can happen at any time.
 
 ### I applied!  What happens next?
-Within 1-2 days, you should expect a confirmation that your email was received and that we were able to access all of the necessary pieces of info.  After that, hiring managers will be able to access this info as their staffing needs evolve.
+Within 1-2 days, you should expect a confirmation that your email was received and that we were able to access all of the necessary pieces of info.  Applications are reviewed for current staffing considerations and future needs as they evolve.
+
+### How do VMLY&R hiring managers get an apprentice?
+Hiring managers (project leads) in development with funded, secured work fill out an internal form to indicate their interest.  This leads to exploring a list of candidates to fit the need while internal HR due diligence and paperwork is pursued.
 
 ### What happens to my application if it doesn't meet current business needs?  How long is my application stored and when should I re-apply?
 Your application will be kept on file for one year.  If you want to update your submission with a new video or resume, simply re-submit with a note to replace your previous submission.  
@@ -39,18 +42,15 @@ You can email [lyndsey.padget@vmlyr.com](mailto:lyndsey.padget@vmlyr.com) to be 
 ### Are VMLY&R tech apprentice positions paid?
 Yep.
 
-### How do VMLY&R hiring managers get an apprentice?
-Hiring managers (project leads) in development with funded, secured work fill out an internal form to indicate their interest.  This leads to exploring a list of candidates to fit the need while internal HR due diligence and paperwork is pursued.
-
 ### Do I have to graduate from a coding bootcamp or similar program to be considered?
 No, but it helps.  We partner with organizations like [LaunchCode](https://www.launchcode.org) when we see that their curriculum and student base is a good fit for our needs.  If you have _not_ completed a rigorous, structured coding program, it's harder for us to gauge your level of knowledge and commitment.  For higher level roles (the next level up from "Tech Apprentice" is "Tech Associate"), we would normally look to work or client experience.  But apprentices are not expected to _have_ any professional development experience.  So it can feel like a bit of a dead end.
 
-If you're considering whether a coding bootcamp is right for you, reach out to [david.mitchell@vmlyr.com](mailto:david.mitchell@vmlyr.com), [lyndsey.padget@vmlyr.com](mailto:lyndsey.padget@vmlyr.com), or [shanice.gipson@vmlyr.com](mailto:shanice.gipson@vmlyr.com).  They'd be happy to chat with you about your career and needs, and offer suggestions on next steps.
+If you're considering whether a coding bootcamp is right for you, reach out to [david.mitchell@vmlyr.com](mailto:david.mitchell@vmlyr.com), [lyndsey.padget@vmlyr.com](mailto:lyndsey.padget@vmlyr.com), or [shanice.gipson@vmlyr.com](mailto:shanice.gipson@vmlyr.com).  They'd be happy to chat with you about your career and needs and offer suggestions on next steps.
 
 ### Will you consider apprentice candidates outside the Kansas City area?
-Yes.  In 2020, most technologists demonstrated their ability to learn and work remotely.  While we prefer that the apprentice/coach relationship be in person, it may not be absolutely necessary, either.  Apprentice candidate pools may now include bootcamp grads that are willing to relocate to Kansas City.
+Yes.  In 2020, most technologists demonstrated their ability to learn and work remotely.  While we prefer that the apprentice/coach relationship be in person, it may not be necessary, either.  Apprentice candidate pools may now include bootcamp grads that are willing to relocate to Kansas City.
 
-Apprentices are an evaluation period, and as such, apprentices will not be required nor expected to move to Kansas City for the first 6 months of their apprenticeship.  After that, conversations between you and your manager (who is informed by your coach) should drive the relocation decision.
+Apprenticeships are an evaluation period, and as such, apprentices will not be required nor expected to move to Kansas City for the first 6 months of their apprenticeship.  After that, conversations between you and your manager (who is informed by your coach) should drive the relocation decision.
 
 ### I don't have professional development experience.  After joining, what if I struggle to succeed?
 VMLY&R can be a competitive place, but we want you to be successful and will do everything we can to ensure you have ample guidance and support.  There are multiple ways of escalating concerns, from talking directly with your coach or manager, to filling out a survey, to reaching out to HR.
